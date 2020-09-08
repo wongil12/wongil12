@@ -1,4 +1,7 @@
-### Hi there 👋
+### HI! 👋
+### Guten Tag!! 👋
+### Buon giorno!!! 👋
+### Hola!!!! 👋
 
 <!--
 **wongil12/wongil12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
