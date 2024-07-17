@@ -4,9 +4,9 @@
 -------------------
 
 ---
-- ⌨️ MVL `2022.04 ~`
-  - Front-End Developer `2022.04 ~`
-  - iOS Developer `2023.03 ~`
+- ⌨️ MVL `2022.04 ~ 2024.07`
+  - Front-End Developer `2022.04 ~ 2024.07`
+  - iOS Developer `2023.03 ~ 2024.07`
 - ⌨️ Atman Partners `2020.03 ~ 2022.04`
   - RPA Devloper
   - Front-End Lead Developer
