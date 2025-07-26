@@ -4,6 +4,8 @@
 -------------------
 
 ---
+- ⌨️ SeedTO `2024.10 ~`
+  - Lead Developer
 - ⌨️ MVL `2022.04 ~ 2024.07`
   - Front-End Developer `2022.04 ~ 2024.07`
   - iOS Developer `2023.03 ~ 2024.07`
