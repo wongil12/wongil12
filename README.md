@@ -12,6 +12,7 @@
 - ⌨️ Atman Partners `2020.03 ~ 2022.04`
   - RPA Devloper
   - Front-End Lead Developer
+- 🏫 hanyang cyber university `2026.03 ~ `
 - 🏫 Baewha Women's University `2020.03 ~ 2022.02`
 - 🎒 Seoul Digitech High School `2017.03 ~ 2020.02`
 ---
